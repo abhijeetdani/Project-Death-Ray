@@ -1,0 +1,1 @@
+vLux.exe "" -project "C:\Havok\My Projects\Assets" -tempfolder "C:\Havok\My Projects\Assets\Scenes\Level 01.scene.Layers" -out "Scenes\Level 01" -quiet -minimized -config "C:\Havok\My Projects\Assets\Scenes\Level 01.scene.Layers\lighting.cfg"

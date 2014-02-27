@@ -1,0 +1,32 @@
+meshes/blockcorner.vmesh	meshes/blockcorner.vmesh	LODSwitchDistances=
+meshes/floortile.vmesh	meshes/floortile.vmesh	LODSwitchDistances=
+meshes/playerproxy.vcolmesh	meshes/playerproxy.vcolmesh	
+meshes/walltile.vmesh	meshes/walltile.vmesh	LODSwitchDistances=
+models/ball.model	models/ball.model	LODSwitchDistances=
+models/blockbig.model	models/blockbig.model	LODSwitchDistances=
+models/blocksmall.model	models/blocksmall.model	LODSwitchDistances=
+models/paddle.model	models/paddle.model	LODSwitchDistances=
+models/playerproxy.model	models/playerproxy.model	LODSwitchDistances=
+prefabs/blueblock.prefab	prefabs/blueblock.prefab	
+prefabs/yellowblock.prefab	prefabs/yellowblock.prefab	
+scenes/deathray_level01_p01.dds	scenes/deathray_level01_p01.dds	sRGB=false
+scenes/deathray_level01_p02.dds	scenes/deathray_level01_p02.dds	sRGB=false
+scenes/deathray_level01_p03.dds	scenes/deathray_level01_p03.dds	sRGB=false
+scenes/deathray_level01_p04.dds	scenes/deathray_level01_p04.dds	sRGB=false
+scenes/deathray_level01_p05.dds	scenes/deathray_level01_p05.dds	sRGB=false
+scenes/level 01_p01.dds	scenes/level 01_p01.dds	sRGB=false
+scenes/level 01_p02.dds	scenes/level 01_p02.dds	sRGB=false
+scenes/level 01_p03.dds	scenes/level 01_p03.dds	sRGB=false
+scenes/level 01_p04.dds	scenes/level 01_p04.dds	sRGB=false
+scenes/level 01_p05.dds	scenes/level 01_p05.dds	sRGB=false
+textures/ballred.tga	textures/ballred.tga	sRGB=false
+textures/blockblue.tga	textures/blockblue.tga	sRGB=false
+textures/blockorange.tga	textures/blockorange.tga	sRGB=false
+textures/paddlegrey.tga	textures/paddlegrey.tga	sRGB=false
+textures/sky/skyback.dds	textures/sky/skyback.dds	sRGB=false
+textures/sky/skybottom.dds	textures/sky/skybottom.dds	sRGB=false
+textures/sky/skyfront.dds	textures/sky/skyfront.dds	sRGB=false
+textures/sky/skyleft.dds	textures/sky/skyleft.dds	sRGB=false
+textures/sky/skyright.dds	textures/sky/skyright.dds	sRGB=false
+textures/sky/skytop.dds	textures/sky/skytop.dds	sRGB=false
+textures/tilewhite.tga	textures/tilewhite.tga	sRGB=false
